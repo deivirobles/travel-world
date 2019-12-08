@@ -4,6 +4,7 @@ import "./App.css"
 import { Hotels } from "./data/data.json"
 import Navigation from "./components/Navigation"
 
+
 class App extends Component {
   constructor(props) {
     super(props);
@@ -31,11 +32,7 @@ class App extends Component {
               <hr />
               <div className="row">
                 <div className="col descriptionHotel">
-                  <span>Description</span>
                   <p>{hotel.desc}</p>
-                </div>
-                <div className="col">
-                  <button className="btn btn-primary">Add Favorite</button>
                 </div>
               </div>
             </div>
@@ -50,6 +47,15 @@ class App extends Component {
           <Navigation />
         </div>
         <div className="container">
+          <div className="row">
+            <div className="col">
+              <form className="pt-4">
+                <div className="form-group">
+                  <input type="text" class="form-control" placeholder="Search" onChange={this.filterList} />
+                </div>
+              </form>
+            </div>
+          </div>
           <div className="row">
             {hotelsList}
           </div>
