@@ -1,0 +1,114 @@
+{
+  "Hotels": [
+    {
+      "id": 1,
+      "name": "Madison Hotel",
+      "image": "https://cdn.pixabay.com/photo/2016/02/19/10/01/hotel-1209021_960_720.jpg",
+      "category": "Hotel",
+      "avgPrice": "20 - 50 USD",
+      "location": "Colombia",
+      "calification": 3,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 2,
+      "name": "Sonesta",
+      "image": "https://cdn.pixabay.com/photo/2016/02/19/10/01/hotel-1209021_960_720.jpg",
+      "category": "Hotel",
+      "avgPrice": "100 - 250 USD",
+      "location": "Colombia",
+      "calification": 3,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 3,
+      "name": "InterContinental",
+      "image": "https://cdn.pixabay.com/photo/2016/02/19/10/01/hotel-1209021_960_720.jpg",
+      "category": "Hotel",
+      "avgPrice": "80 - 180 USD",
+      "location": "Colombia",
+      "calification": 3,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 4,
+      "name": "Caribe Granada",
+      "image": "https://cdn.pixabay.com/photo/2016/02/19/10/01/hotel-1209021_960_720.jpg",
+      "category": "Hotel",
+      "avgPrice": "50 - 187 USD",
+      "location": "Colombia",
+      "calification": 3,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 4,
+      "name": "Oasis",
+      "image": "https://cdn.pixabay.com/photo/2016/02/19/10/01/hotel-1209021_960_720.jpg",
+      "category": "Hotel",
+      "avgPrice": "350 - 400 USD",
+      "location": "Colombia",
+      "calification": 3,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 5,
+      "name": "San Sebastian",
+      "image": "https://cdn.pixabay.com/photo/2016/02/19/10/01/hotel-1209021_960_720.jpg",
+      "category": "Hostal",
+      "avgPrice": "10 - 30 USD",
+      "location": "Colombia",
+      "calification": 3,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 6,
+      "name": "Windsor",
+      "image": "https://cdn.pixabay.com/photo/2016/02/19/10/01/hotel-1209021_960_720.jpg",
+      "category": "Hotel",
+      "avgPrice": "35 - 130 USD",
+      "location": "Colombia",
+      "calification": 3,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 7,
+      "name": "Estelar de la Feria",
+      "image": "https://cdn.pixabay.com/photo/2016/02/19/10/01/hotel-1209021_960_720.jpg",
+      "category": "Hotel",
+      "avgPrice": "190 - 240 USD",
+      "location": "Colombia",
+      "calification": 3,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 8,
+      "name": "Colinas Hotel",
+      "image": "https://cdn.pixabay.com/photo/2016/02/19/10/01/hotel-1209021_960_720.jpg",
+      "category": "Hotel",
+      "avgPrice": "85 - 130 USD",
+      "location": "Colombia",
+      "calification": 3,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 9,
+      "name": "Paraiso del Cielo",
+      "image": "https://cdn.pixabay.com/photo/2016/02/19/10/01/hotel-1209021_960_720.jpg",
+      "category": "Apartamentos",
+      "avgPrice": "25 - 70 USD",
+      "location": "Colombia",
+      "calification": 3,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 10,
+      "name": "Vista del Cielo",
+      "image": "https://cdn.pixabay.com/photo/2016/02/19/10/01/hotel-1209021_960_720.jpg",
+      "category": "Hotel",
+      "avgPrice": "120 - 170 USD",
+      "location": "Colombia",
+      "calification": 3,
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  ]
+}
